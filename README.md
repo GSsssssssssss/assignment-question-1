@@ -88,7 +88,7 @@ const handleClick = (row) => {
   }
 ```
 After creating handleClick function I pass it as a 'onClick' prop to List component. In list component, give that onClick as a prop to ListRow
-![alt text](dashboard.JPG)
+![image](https://github.com/GSsssssssssss/assignment-question-1/assets/93574391/cc3c4124-6315-47f1-a6ae-e73de7fbfa53)
 
 ## Bonus
 
